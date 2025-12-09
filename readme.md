@@ -25,6 +25,6 @@ retail-sales-cleaning-analysis/
 3. 数据保存：输出规范CSV文件，可直接用于后续可视化/分析。
 
 ## 快速使用
-1. 克隆仓库：\`git clone https://github.com/123asdc-it/retail-sales-cleaning-analysis.git\`
-2. 安装依赖：\`pip install pandas -i https://pypi.tuna.tsinghua.edu.cn/simple\`
-3. 打开Notebook：运行\`notebooks/Project1_零售销售数据清洗与可视化.ipynb\`即可复现结果
+1. 克隆仓库：`git clone https://github.com/123asdc-it/retail-sales-cleaning-analysis.git\`
+2. 安装依赖：`pip install pandas -i https://pypi.tuna.tsinghua.edu.cn/simple\`
+3. 打开Notebook：运行`notebooks/Project1_零售销售数据清洗与可视化.ipynb\`即可复现结果

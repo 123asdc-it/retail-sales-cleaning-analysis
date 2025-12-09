@@ -8,7 +8,7 @@
 - 数据格式：CSV
 
 ## 文件结构
-\`\`\`
+```
 retail-sales-cleaning-analysis/
 ├── data/          # 数据集目录
 │   ├── raw_data.csv     # 原始销售数据（1万条记录）
@@ -17,7 +17,7 @@ retail-sales-cleaning-analysis/
 │   └── Project1_零售销售数据清洗与可视化.ipynb  # 核心代码（含清洗+校验）
 ├── .gitignore     # 忽略无关文件
 └── README.md      # 项目说明
-\`\`\`
+```
 
 ## 核心功能
 1. 数据清洗：处理缺失值（无）、异常值（负销量/单价）、日期格式、重复交易ID；
@@ -25,6 +25,6 @@ retail-sales-cleaning-analysis/
 3. 数据保存：输出规范CSV文件，可直接用于后续可视化/分析。
 
 ## 快速使用
-1. 克隆仓库：\`git clone https://github.com/你的GitHub用户名/retail-sales-cleaning-analysis.git\`
+1. 克隆仓库：\`git clone https://github.com/123asdc-it/retail-sales-cleaning-analysis.git\`
 2. 安装依赖：\`pip install pandas -i https://pypi.tuna.tsinghua.edu.cn/simple\`
 3. 打开Notebook：运行\`notebooks/Project1_零售销售数据清洗与可视化.ipynb\`即可复现结果
